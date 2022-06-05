@@ -1,0 +1,23 @@
+h1{
+    background-color:brown;
+    color: white;
+}
+ol {
+
+    background-color: blue;
+    color: white;
+}
+
+input{
+    background-color: green;
+}
+::placeholder{
+    color: white;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+}
